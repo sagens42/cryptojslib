@@ -1,0 +1,12 @@
+{
+	"name": "currycatcryptojslib",
+	"version": "1.0.1",
+	"main": ["components/enc-base64-min.js", "rollups/md5.js"],
+	"homepage": "https://github.com/sytelus/cryptojs",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/currycat/cryptojslib.git"
+	},
+	"dependencies": {},
+	"devDependencies": {}
+}
