@@ -17,7 +17,7 @@ If you are not using bower then just include the .js file from rollups folder fo
 Using Bower:
 
 ```
-bower install cryptojslib
+bower install currycatcryptojs --save
 ```
 
 ### APIs
